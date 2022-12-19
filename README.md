@@ -3,9 +3,9 @@ Python module tkinter based
 
 modules you need first 
 
-pip install tkinter
-pip install pillow
-pip install pytube
+pip install tkinter/n
+pip install pillow/n
+pip install pytube/n
 
 after satisfy all requirements 
 
